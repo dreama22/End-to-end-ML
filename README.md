@@ -1,2 +1,3 @@
 # End-to-end-ML
 About The Employee Attrition Rate Problem
+People may stay in one company all their lives, but they are more likely to switch jobs to other companies. And employee turnover is a loss of cost for a company. Therefore, it is important for a company to understand the underlying factors for employee turnover and the employee attrition rate. For the project, I will use linear regression, random forest, and Gradient boosting models to predict employee attrition rate and give the major factors that affect employee attrition rate. The dataset provided on Kaggle with 24 variables and 7000 employees' information for this project.
